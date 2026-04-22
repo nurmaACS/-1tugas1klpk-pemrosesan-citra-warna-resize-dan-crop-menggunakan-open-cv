@@ -1,0 +1,1 @@
+# -1tugas1klpk-pemrosesan-citra-warna-resize-dan-crop-menggunakan-open-cv
